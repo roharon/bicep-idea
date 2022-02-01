@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.roharon.bicepidea.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.roharon.bicepidea.MyBundle
 
 class MyProjectService(project: Project) {
 

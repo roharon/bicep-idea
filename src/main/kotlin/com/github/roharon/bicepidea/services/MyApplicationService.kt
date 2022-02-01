@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.roharon.bicepidea.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.roharon.bicepidea.MyBundle
 
 class MyApplicationService {
 
